@@ -4,3 +4,5 @@
 
 /.vs/Algorithms
 /obj/Debug/netcoreapp2.2
+/bin/Debug/netcoreapp2.2
+/obj
